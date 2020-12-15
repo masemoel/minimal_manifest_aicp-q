@@ -50,7 +50,6 @@
   <remove-project name="platform/hardware/ril" />
   <remove-project name="platform/packages/apps/Bluetooth" />
   <remove-project name="platform/packages/apps/Car/Settings" />
-  <remove-project name="platform/packages/apps/CellBroadcastReceiver" />
   <remove-project name="platform/packages/apps/Email" />
   <remove-project name="platform/packages/apps/Launcher3" />
   <remove-project name="platform/packages/apps/Nfc" />
